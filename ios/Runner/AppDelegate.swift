@@ -11,4 +11,4 @@ import UIKit
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }
-GMSServices.provideAPIKey("AlzaSyAF41B7pLcqR5fcm6P0Ed5BCmgSoKWQT1w")
+GMSServices.provideAPIKey("your key")
